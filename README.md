@@ -1,3 +1,3 @@
 # Formulario_js
 
-#formulario simples feito com html e javascript
+#formulario simples feito com html,css e javascript
